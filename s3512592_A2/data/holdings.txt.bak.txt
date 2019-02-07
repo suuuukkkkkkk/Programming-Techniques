@@ -1,0 +1,8 @@
+b000001,Intro to Java,10,28,not removed,active,not on loan,-,-,0
+b000002,Learning UML,10,28,not removed,active,not on loan,-,-,0
+b000003,Design Patterns,10,28,not removed,active,not on loan,-,-,0
+b000004,Advanced Java,10,28,not removed,active,not on loan,-,-,0
+v000001,Java 1,4,7,not removed,active,not on loan,-,-,0
+v000002,Java 2,6,7,not removed,active,not on loan,-,-,0
+v000003,UML 1,6,7,not removed,active,not on loan,-,-,0
+v000004,UML 2,4,7,not removed,active,not on loan,-,-,0
